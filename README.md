@@ -1,4 +1,4 @@
-# this is a static site for philo learn
+# this is a static site for [PhiloLearn](https://youtu.be/iaZYwGsPZBc)
 
 💥this template is not my work.
 
