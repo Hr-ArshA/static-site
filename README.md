@@ -1,4 +1,4 @@
-# this is a static site for [PhiloLearn](https://youtu.be/iaZYwGsPZBc)
+# this is a static site for [PhiloLearn](https://www.youtube.com/channel/UC8U5QJeiECJGIdC4FhVkQbQ/)
 
 💥this template is not my work.
 
